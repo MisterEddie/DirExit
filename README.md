@@ -1,6 +1,5 @@
 # DirExit
-A Directional EXIT sign system that saves more lives via real time route planning and danger identification
-See more  here: https://devpost.com/software/direxit
+A Directional EXIT sign system that saves more lives via real time route planning and danger identification.  See more  here: https://devpost.com/software/direxit
 
 ## Inspiration
 When it comes to emergencies in buildings such as fires, earthquakes or active intruders, every second counts. In the US, the number of domestic fires have gone down per year, but deaths per fire due to egress difficulties have been steadily increasing. Traditional red EXIT signs, which are the primary escape infrastructure, are stateless and do not account for pathways such as stairs becoming unusable. For people to exit premises efficiently, a real time solution needs to be implemented to account for the unexpected dangerous or blocked paths.
